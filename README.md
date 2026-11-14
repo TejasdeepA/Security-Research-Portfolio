@@ -86,5 +86,7 @@ Technical investigations into malware behaviour, static and dynamic analysis, ex
 - Security Automation and Engineering
 - AI-assisted Security Analysis
 
-- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/tejasdeep-singh-anand)
+---
+
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/tejasdeep-singh-anand)
 
