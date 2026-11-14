@@ -23,8 +23,7 @@ A software supply chain intelligence system that automatically decomposes binary
 - Plain-English security alerts and automated containment capabilities.
 
 **Resources:**
-- [Source Code / Project Repository](PROJECT_REPOSITORY_URL)
-- [Product Demonstration](DEMO_VIDEO_URL)
+- [Product Demonstration](https://drive.google.com/file/d/1YxS4lTKIFZXohy0vlsDZLlwkmU3W8wJB/view?usp=drive_link)
 
 ---
 
@@ -87,5 +86,5 @@ Technical investigations into malware behaviour, static and dynamic analysis, ex
 - Security Automation and Engineering
 - AI-assisted Security Analysis
 
-- **LinkedIn:** [LinkedIn Profile](LINKEDIN_PROFILE_URL)
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/tejasdeep-singh-anand)
 
